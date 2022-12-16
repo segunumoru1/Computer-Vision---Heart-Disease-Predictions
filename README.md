@@ -1,4 +1,4 @@
-## Computer-Vision---Heart-Disease-Predictions
+## -Heart-Disease-Predictions
 
 The goal of the project is to predict the presence of heart disease in the patient
 
